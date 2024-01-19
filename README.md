@@ -1,7 +1,7 @@
 ### Hi there , I`m Jefferson Silva👋
 
 ### About
- I`m studying web development at [Rocketseat ] (https://www.rocketseat.com.br/).
+ I`m studying web development at [Rocketseat ](https://www.rocketseat.com.br/).
 
  #### Current stack
 
