@@ -6,7 +6,7 @@
  #### Current stack
 
  - ⚡️ Main language: `Javascript`
- - 🎉 Frontend: `HTML5`, `TAILWINDCSS`, `JAVASCRIPT`, `ECMASCRIPT`
+ - 🎉 Frontend: `HTML5`, `TAILWINDCSS`, `JAVASCRIPT`, `NODEJS`, `ECMASCRIPT`
  - 🎨 Layout Design: `Figma`
  - 📦️ Version code control: `Git & GitHub`
  - 🔧 Tools: `VsCode`
