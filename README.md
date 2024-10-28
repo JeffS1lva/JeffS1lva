@@ -15,4 +15,4 @@
 #### Contacts
 
 - 📩 Email: jeffdsilva.29@gmail.com
-- 👤 Linkedin: https://www.linkedin.com/in/jefferson-silva/
+- 👤 Linkedin: [https://www.linkedin.com/in/jefferson-silva/](https://www.linkedin.com/in/jefferson-silva-developer/)
